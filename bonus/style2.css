@@ -1,0 +1,45 @@
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.box{
+    height: 50px;
+}
+
+.overline{
+    background: black;
+}
+
+.bread{
+    background: rgb(240, 186, 7);
+}
+
+.body{
+    background: rgb(0, 126, 113);
+}
+
+.salad{
+    background: rgb(0, 216, 0);
+}
+
+.hamburger{
+    background: rgb(110, 59, 0);
+}
+
+.tomato{
+    background: red;
+}
+
+.eyelid{
+    background: rgb(0, 136, 0);
+}
+
+.eye{
+    background: white;
+}
+
+.paper{
+    background: rgb(255, 250, 202);
+}
